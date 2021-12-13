@@ -1,8 +1,8 @@
-let przepis = document.getElementById("#opis");
+// let przepis = document.getElementById("#opis");
 
-console.log(przepis);
+// console.log(przepis);
 
-let button = document.querySelector('#opis');
+let button = document.querySelector('button');
 
 console.log(button);
 
